@@ -1,0 +1,13 @@
+{
+  "name": "stream-inspect",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Tom Ashworth <ta@twitter.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "event-stream": "~3.0.16"
+  }
+}
