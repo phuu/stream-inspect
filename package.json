@@ -1,11 +1,11 @@
 {
   "name": "stream-inspect",
   "version": "0.0.1",
-  "description": "",
+  "description": "Inspect your stream",
   "main": "index.js",
   "scripts": {},
   "author": "Tom Ashworth <ta@twitter.com>",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "dependencies": {
     "event-stream": "~3.0.16"
   }
