@@ -9,7 +9,6 @@ module.exports = function (ns) {
     } catch (e) {}
     var args = [require('util').inspect(out, { depth: null, colors: true })];
     ns && args.unshift(ns + ':');
-    console.log.apply(console, args);
     return data;
   });
 };
